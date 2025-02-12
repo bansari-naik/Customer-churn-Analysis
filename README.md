@@ -26,7 +26,7 @@ This repository contains an **exploratory data analysis (EDA)** of customer chur
 ## How to Use
 Clone this repository and open the Jupyter Notebook to explore the analysis.
 ```bash
-git clone https://github.com/yourusername/customer-churn-analysis.git
+git clone https://github.com/bansari-naik/customer-churn-analysis.git
 cd customer-churn-analysis
 jupyter notebook customer_churn_analysis.ipynb
 
